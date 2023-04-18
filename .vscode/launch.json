@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "KeywordsAndExpressions",
+      "request": "launch",
+      "mainClass": "KeywordsAndExpressions",
+      "projectName": "CS50_HTML_79482e8e"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "CS50_HTML_79482e8e"
+    },
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/alanwhitehouse/Dropbox/Mac (2)/Desktop/CS50_HTML",
+      "program": "/Users/alanwhitehouse/Dropbox/Mac (2)/Desktop/CS50_HTML/build/Debug/outDebug"
+    }
+  ]
+}
